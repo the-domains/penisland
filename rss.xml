@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[penisland]]></title>
         <description><![CDATA[penisland]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/penisland/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Thu, 17 Dec 2015 12:41:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/penisland/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://bespokeblog.files.wordpress.com/2008/08/dip_pens.jpg">]]></description>
+            <link>https://thegrid.ai/penisland/d679cceb-02cf-4993-8a65-c5f97fbbbfa3/index.html</link>
+            <guid isPermaLink="false">d679cceb-02cf-4993-8a65-c5f97fbbbfa3</guid>
+            <pubDate>Thu, 17 Dec 2015 12:41:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://blog.tigerpens.co.uk/wp-content/uploads/2015/03/president-obama-cross-pen.jpg">]]></description>
-            <link>undefined2be9c0a8-a1f3-4da8-89bd-38f008e06d25/index.html</link>
+            <link>https://thegrid.ai/penisland/2be9c0a8-a1f3-4da8-89bd-38f008e06d25/index.html</link>
             <guid isPermaLink="false">2be9c0a8-a1f3-4da8-89bd-38f008e06d25</guid>
             <pubDate>Thu, 17 Dec 2015 12:41:08 GMT</pubDate>
         </item>
