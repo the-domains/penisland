@@ -1,0 +1,28 @@
+name: penisland
+favicon: null
+layout_spectrum: 0.4717873614281416
+typography_spectrum: 0.1498210800345987
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6241343840956688
+  lightness: 0.7738164514303207
+  saturation: 0.8892337610013783
+  rhythmicContrast: 0.9545759719330817
+purpose: []
