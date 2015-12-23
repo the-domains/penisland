@@ -1,6 +1,6 @@
 name: penisland
 favicon: null
-layout_spectrum: 0.4717873614281416
+layout_spectrum: 1
 typography_spectrum: 0
 title: Pen Island
 cta:
@@ -22,7 +22,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.6241343840956688
+  brandStrength: 0.6875
   lightness: 0.7738164514303207
   saturation: 0.8892337610013783
   rhythmicContrast: 0.9545759719330817
